@@ -516,6 +516,40 @@ nav >ul>li>a{
 	
 }
 
+
+/************************BLOGS*******************/
+#blog{
+	padding: 0 50px;
+	margin:0;
+}
+#blog h1{
+	font-size: 40px;
+	text-align: center;
+	margin-bottom: 30px;
+}
+.blog-row{
+display: flex;
+	justify-content: space-around;
+	align-items: center;
+	flex-wrap: wrap;	
+}
+.blog-box{
+	flex-basis: 25%;
+	padding: 10px;
+	box-shadow: 2px 3px 5px grey;
+}
+.blog-box img{
+	width: 100%;
+}
+
+.blog-box p{
+	margin:20px 0px;
+}
+
+
+
+
+
 #footer{
 	/*background:linen;*/
 	 background-image:linear-gradient(to right,#FFD194,#D1913C); 
